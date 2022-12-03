@@ -1,0 +1,19 @@
+{
+  "name": "npm-study",
+  "version": "1.0.0",
+  "description": "npm练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lemmtion/Html_Study.git"
+  },
+  "author": "lem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lemmtion/Html_Study/issues"
+  },
+  "homepage": "https://github.com/Lemmtion/Html_Study#readme"
+}
